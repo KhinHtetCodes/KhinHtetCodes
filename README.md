@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Khin
 
-<!--
-**KhinHtetCodes/KhinHtetCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer based in Japan
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇲🇲 Originally from Myanmar
+- 🇯🇵 Working in Japan
+- 💼 7+ years of C#/.NET development
+- 🇯🇵 JLPT N1
+- 🇬🇧 TOEIC 860
+- 🏥 Enterprise Medical System Developer
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
+- 🌱 Currently learning ASP.NET Core & Azure
+
+## Tech Stack
+
+- C#
+- .NET Framework
+- ASP.NET Core
+- Oracle
+- SQL Server
+- Entity Framework Core
+- Git
+- Azure
+
+## Current Goals (2026–2027)
+
+- Build 10 production-quality projects
+- Write 25 technical articles
+- Master ASP.NET Core
+- Learn Docker & CI/CD
+- Become a Backend Engineer
+
+## Connect with Me
+
+- LinkedIn: (Coming Soon)
+- Blog: (Coming Soon)
+
+Thanks for visiting my profile! 
+
